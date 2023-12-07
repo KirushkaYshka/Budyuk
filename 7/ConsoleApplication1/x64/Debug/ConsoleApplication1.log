@@ -1,0 +1,26 @@
+﻿  ConsoleApplication1.cpp
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(30,17): error C2065: Driver: необъявленный идентификатор
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(30,24): error C2059: синтаксическая ошибка: >
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(38,20): error C2061: синтаксическая ошибка: идентификатор "Driver"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(42,23): error C2061: синтаксическая ошибка: идентификатор "Driver"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(39,27): error C2065: driver: необъявленный идентификатор
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(47,14): error C2065: Driver: необъявленный идентификатор
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(47,22): error C2065: driver: необъявленный идентификатор
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(47,29): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(47,38): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(48,26): error C2065: driver: необъявленный идентификатор
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(48,49): error C2065: driver: необъявленный идентификатор
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(82,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(82,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(82,23): error C2238: непредвиденные лексемы перед ";"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(89,11): error C2061: синтаксическая ошибка: идентификатор "Customer"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(89,5): error C2535: Order::Order(void): функция-член уже определена или объявлена
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(87,5): message : см. объявление "Order::Order"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(89,75): error C2065: customer: необъявленный идентификатор
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(89,66): error C2614: Order: недопустимая инициализация члена: "customer" не является базовым классом или членом
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(119,33): error C2039: "customer": не является членом "Order".
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(80,7): message : см. объявление "Order"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(164,17): error C2661: Order::Order: нет перегруженной функции, принимающей 3 аргументов
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(164,17): message : при попытке сопоставить список аргументов "(Customer *, Tariff *, double)"
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(165,17): error C2661: Order::Order: нет перегруженной функции, принимающей 3 аргументов
+D:\ИСП-32\Ушаков\7\ConsoleApplication1\ConsoleApplication1.cpp(165,17): message : при попытке сопоставить список аргументов "(Customer *, Tariff *, double)"
