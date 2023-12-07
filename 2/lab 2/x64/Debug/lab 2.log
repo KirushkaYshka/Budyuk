@@ -1,0 +1,7 @@
+﻿  lab 2.cpp
+D:\ИСП-32\Ушаков\2\lab 2\lab 2.cpp(56,23): warning C4244: +=: преобразование "double" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+  lab 2.vcxproj -> D:\ИСП-32\Ушаков\2\x64\Debug\lab 2.exe
